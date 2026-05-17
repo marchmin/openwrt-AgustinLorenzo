@@ -52,6 +52,7 @@ elecom,wrc-x3000gs2|\
 glinet,gl-b3000|\
 iodata,wn-dax3000gr|\
 cmcc,mr3000d-04|\
+cmcc,mr3000d-ci|\
 linksys,mx2000|\
 yuncore,ax830)
 	migrate_radio 'platform/soc@0/b00a040.wifi1' 'platform/soc@0/b00a040.wifi'
